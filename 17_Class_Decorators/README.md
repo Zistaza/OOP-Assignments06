@@ -27,7 +27,7 @@ In this example, we define a class decorator named `add_greeting` that adds a ne
 
 3. **Accessing the Added Method**:
 
-   * Once the `Person` class is decorated, all instances of the `Person` class have access to the `greet()` method.
+   * Once the `Person` class is decorated, all instances of  `Person` class have access to the `greet()` method.
    * Calling `greet()` will return `"Hello from Decorator!"`.
 
 ---
